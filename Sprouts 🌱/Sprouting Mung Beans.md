@@ -1,1 +1,0 @@
-# Sprouting Mung Beans
