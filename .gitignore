@@ -1,3 +1,13 @@
+##      Project Ignores     ##
+template.md
+
+##     Mac System Ignores   ##
+.DS_Store
+.DS_Store?
+._*
+
+
+##      GitBook Ignores     ##
 # Node rules:
 ## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
